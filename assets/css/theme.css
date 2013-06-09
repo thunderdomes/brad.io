@@ -1,2 +1,3 @@
-body{background:#f4f4f4;font-family:'Open Sans',sans-serif;}
-.navbar-inverse .navbar-inner{background-color:#000;background-image:-moz-linear-gradient(top, #000000, #000000);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#000000), to(#000000));background-image:-webkit-linear-gradient(top, #000000, #000000);background-image:-o-linear-gradient(top, #000000, #000000);background-image:linear-gradient(to bottom, #000000, #000000);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000', endColorstr='#000', GradientType=0);border-color:#000;}
+body{background:#6b154f;font-family:'Open Sans',sans-serif;padding-top:60px;}
+.main-container{background:transparent;width:960px;padding:10px;}
+.navbar-inverse .navbar-inner{background:#1c1c1c;background-image:-moz-linear-gradient(center top, #393939, #222222);background-repeat:repeat-x;box-shadow:0 1px 3px rgba(0, 0, 0, 0.25),0 -1px 0 rgba(0, 0, 0, 0.1) inset;}
