@@ -1,3 +1,8 @@
 body{background:#6b154f;font-family:'Open Sans',sans-serif;padding-top:60px;}
 .main-container{background:transparent;width:960px;padding:10px;}
+.nav-container{margin:0 auto;width:960px;padding:0px 10px;}
 .navbar-inverse .navbar-inner{background:#1c1c1c;background-image:-moz-linear-gradient(center top, #393939, #222222);background-repeat:repeat-x;box-shadow:0 1px 3px rgba(0, 0, 0, 0.25),0 -1px 0 rgba(0, 0, 0, 0.1) inset;}
+.nav-tabs{width:600px;background:#ccc;margin-bottom:0px;font-weight:normal;}.nav-tabs li a{-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}
+.nav-tabs li>a:hover{border-bottom:1px solid #eeeeee;}
+.nav-tabs .active>a,.nav-tabs .active>a:hover,.nav-tabs .active>a:focus{color:#555555;margin-top:-5px;padding-bottom:13px;background-color:#ffffff;border:1px solid #ddd;border-bottom-color:transparent;cursor:default;}
+.tab-content{margin-top:0;width:100%;background:#fff;height:400px;padding:10px;}
